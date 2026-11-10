@@ -468,6 +468,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools that integrate with Internet of Things connectivity.
 
 - <img src="https://avatars.githubusercontent.com/u/66228869?s=200&v=4" height="14"/> [Coreflux MQTT](https://github.com/CorefluxCommunity/CorefluxMCPServer) - MCP server for the Coreflux MQTT broker, enabling AI agents to transfom the broker into a automation hub and interact with IoT devices and messaging systems through the MQTT protocol. 
+- <img src="https://avatars.githubusercontent.com/u/93012621?s=200&v=4" height="14"/> [iotaudit](https://github.com/emirmrkaljevic/iotaudit) - Local CLI and MCP server that audits IoT and smart-home devices on your own LAN: destinations, encryption, public DNS, DNS-over-TLS and DNS-over-HTTPS. `pip install iotaudit` then `iotaudit mcp`.
 
 <br />
 
